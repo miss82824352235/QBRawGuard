@@ -1,0 +1,12 @@
+{
+  "QBRawGuard": {
+    "id": "QBRawGuard",
+    "name": "原盘通知",
+    "description": "智能拦截 BDVM / ISO / DVD 原盘种子，事件驱动秒级响应 + 定时扫描兜底；命中后联动清理下载文件与入库记录，杜绝 Emby 无法播放的媒体污染。",
+    "version": "2.6.1",
+    "author": "miss82824352235",
+    "icon": "https://cdn-icons-png.flaticon.com/512/564/564619.png",
+    "level": 1,
+    "history": {}
+  }
+}
